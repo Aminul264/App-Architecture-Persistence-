@@ -89,7 +89,7 @@
             app:layout_constraintStart_toEndOf="@+id/start_button"
             app:layout_constraintTop_toTopOf="parent" />
 
-        
+
         <Button
             android:id="@+id/clear_button"
             style="@style/SleepButtons"
